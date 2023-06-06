@@ -254,19 +254,19 @@ void key()
 	if(!col1)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 7\n");
+		Lcd_string(&lcd,"key 4\n");
 		col1=1;
 	}
 	else if(!col2)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 8\n");
+		Lcd_string(&lcd,"key 5\n");
 		col2=1;
 	}
 	else if(!col3)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 9\n");
+		Lcd_string(&lcd,"key 6\n");
 		col3=1;
 	}
 	else if(!col4)
@@ -290,19 +290,19 @@ void key()
 	if(!col1)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 7\n");
+		Lcd_string(&lcd,"key 1\n");
 		col1=1;
 	}
 	else if(!col2)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 8\n");
+		Lcd_string(&lcd,"key 2\n");
 		col2=1;
 		}
 	else if(!col3)
 	{
 		Lcd_cursor(&lcd,0,1);
-		Lcd_string(&lcd,"key 9\n");
+		Lcd_string(&lcd,"key 3\n");
 		col3=1;
 	}
 	else if(!col4)
@@ -441,8 +441,8 @@ Programmed By:K.R.Hashish Vidya Sagar
 Ref.No.: 212222230047
 ```
 ## Output screen shots of proteus  :
+![exp 5 out](https://github.com/hashish9275/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118707521/673c9143-ea77-4a3a-aa78-5b7ecbc053a2)
 
-![exp 5 out](https://github.com/hashish9275/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118707521/035d4a8e-1e03-4105-95d8-06d26859039a)
 
 
 
@@ -450,9 +450,9 @@ Ref.No.: 212222230047
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![exp 5 lay out](https://github.com/hashish9275/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118707521/5c4059b8-d368-4bd6-bb0a-6fabe2090c4f)
 
- 
+ ![exp 5 lay out](https://github.com/hashish9275/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118707521/2ebc606d-8bef-4402-b4b9-7735d54c2b8e)
+
  
 
 
